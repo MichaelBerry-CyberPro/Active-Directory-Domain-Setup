@@ -1,4 +1,4 @@
-# Active-Directory-Domain-Setup
+# Active-Directory-Domain-Setup (Documentation In Progress 8/7)
 
 <H2> Objectives </H2>
 
@@ -20,3 +20,9 @@
 
 <h2> Step 1 </h2>
 Designed and deployed a Windows Server Active Directory domain to simulate enterprise identity and access management.
+
+<H2> Step2 </H2>
+Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects (GPOs) to enforce security settings across the network
+
+<h2> Step3 </h2>
+Created and managed user accounts, security groups, and organizational units (OUs) to reflect real-world corporate structures
