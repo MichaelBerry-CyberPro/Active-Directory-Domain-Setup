@@ -18,4 +18,5 @@
 6) DHCP
 7) TCP/IP
 
-8) 
+<h2> Step 1 </h2>
+Designed and deployed a Windows Server Active Directory domain to simulate enterprise identity and access management.
