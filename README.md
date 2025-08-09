@@ -19,6 +19,10 @@
 6) DHCP
 7) TCP/IP
 
+<h2>Project Topology</h2> 
+
+![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/Topology%20(1).png?raw=true)
+
 <h2> Step 1 </h2>
 Designed and deployed a Windows Server Active Directory domain to simulate enterprise identity and access management.
 
