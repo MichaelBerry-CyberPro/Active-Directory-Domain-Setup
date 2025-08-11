@@ -33,7 +33,7 @@ Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects 
 Created and managed user accounts, security groups, and organizational units (OUs) to reflect real-world corporate structures
 
 <h2> Step 4 </h2>
-Developed and executed PowerShell scripts to automate bulk creation of user accounts in Active Directory from CSV files. This script was designed to create user into the User's OU.
+Developed and executed PowerShell scripts to automate bulk creation of user accounts in Active Directory from CSV files. This script was designed to create user into the User's OU. 
 
 ![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/User%20Creation.png?raw=true)
 
