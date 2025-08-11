@@ -38,6 +38,9 @@ Developed and executed PowerShell scripts to automate bulk creation of user acco
 ![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/User%20Creation.png?raw=true)
 
 
+(https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/Users%20OU.png?raw=true)
+
+
 
 Joined Windows 10 client VM to the domain and validated domain authentication with created user accounts
 
