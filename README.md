@@ -26,6 +26,8 @@
 <h2> Step 1 </h2>
 Designed and deployed a Windows Server Active Directory domain to simulate enterprise identity and access management.
 
+![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/Active%20Directory.png?raw=true)
+
 <H2> Step 2 </H2>
 Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects (GPOs) to enforce security settings across the network
 
