@@ -29,7 +29,7 @@ Designed and deployed a Windows Server Active Directory domain to simulate enter
 ![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/Active%20Directory.png?raw=true)
 
 <H2> Step 2 </H2>
-Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects (GPOs) to enforce security settings across the network
+Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects (GPOs) to enforce security settings across the network. In this environment, the DC connects the internet to the internal client. 
 
 
 <h2> Step 3 </h2>
