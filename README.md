@@ -31,6 +31,7 @@ Designed and deployed a Windows Server Active Directory domain to simulate enter
 <H2> Step 2 </H2>
 Configured Domain Controller (DC) roles, DNS services, and Group Policy Objects (GPOs) to enforce security settings across the network. In this environment, the DC connects the internet to the internal client. 
 
+![image alt](https://github.com/MichaelBerry-CyberPro/Active-Directory-Domain-Setup/blob/main/remote%20and%20routing%20.png?raw=true)
 
 <h2> Step 3 </h2>
 Created and managed user accounts, security groups, and organizational units (OUs) to reflect real-world corporate structures. Developed and executed PowerShell scripts to automate bulk creation of user accounts in Active Directory from CSV files. This script was designed to create user into the User's OU. 
