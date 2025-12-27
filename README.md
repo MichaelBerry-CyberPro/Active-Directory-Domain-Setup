@@ -1,5 +1,4 @@
 # Active-Directory-Domain-Setup 
-(Documentation In Progress 8/13)
 
 <H2> Objectives </H2>
 
